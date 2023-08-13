@@ -1,1 +1,2 @@
-# pilk-clicker-python-library
+# pilk-clicker
+Library for working api pilk-clicker.ru
